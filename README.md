@@ -5,7 +5,7 @@
 
 ## Run an image ##
 
-docker pull aakashb8793/blockchainrepo:latest
+```docker pull aakashb8793/blockchainrepo:latest```
 
 ## Run the curl command ##
 

@@ -5,7 +5,7 @@
 
 ## Run an image ##
 
-```docker run --name ncilab02 -p 8090:8080 nci02```
+docker pull aakashb8793/blockchainrepo:latest
 
 ## Run the curl command ##
 
